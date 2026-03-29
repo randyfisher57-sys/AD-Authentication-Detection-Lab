@@ -1,4 +1,4 @@
-# AD-Authentication-Detection-Lab
+# AD-Authentication-Detection-Lab with Splunk
 
 ## Objective
 
